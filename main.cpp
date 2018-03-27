@@ -24,5 +24,7 @@ int main()
     } catch(...) {
         cout << "Error...";
     }
+
+    system("pause");
     return 0;
 }
